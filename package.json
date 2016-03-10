@@ -1,0 +1,12 @@
+{
+  "name": "fcc_date_microservice",
+  "version": "0.0.0",
+  "description": "A timestamp microservice for a freecodecamp task <http://www.freecodecamp.com/challenges/timestamp-microservice>",
+  "main": "server.js",
+  "repository": "",
+  "author": "James 'Techy' Davenport <https://github.com/JD-aka-Techy>",
+  "dependencies": {
+    "express":"~3.2.6" 
+  }
+  
+}
